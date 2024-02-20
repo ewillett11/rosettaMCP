@@ -2,7 +2,7 @@ Using Simple Cyc Pep predict
 
 
 RUN SimpleCycPepPredict.py
-Will prompt inputs and run SimpleCycPep.py predict in rosetta
+Will prompt inputs and run SimpleCycpepPredict in rosetta
 --Enter sequence
 --Enter number of iterations
 --SOME capability of NCAAs
