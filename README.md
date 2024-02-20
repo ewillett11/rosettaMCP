@@ -1,7 +1,7 @@
 Using Simple Cyc Pep predict
 
 RUN SimpleCycPepPredict.py
-Will prompt inputs and run SimpleCycPep.py predict in rosetta\n
+Will prompt inputs and run SimpleCycPep.py predict in rosetta
 --Enter sequence
 
 --Enter number of iterations
