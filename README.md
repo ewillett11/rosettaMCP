@@ -14,6 +14,8 @@ Working on running in pyrosetta
 
 phipsi.py
 --determine phi and psi angles of native structure and conformers
+--results printed to PhiPsi_mult.txt
+Run plot_Rama.py to visualize phi/psi plots
 
 RMSD_scoreplots_simple
 --plots silent file RMSD vs score
