@@ -10,7 +10,7 @@ Will prompt inputs and run SimpleCycPep predict in rosetta
 REQUIRES ROSETTA DOWNLOAD
 
 NOTE:
-Working on running in pyrosetta
+Working on running in pyrosetta (in pyrosetta folder)
 
 phipsi.py
 --determine phi and psi angles of native structure and conformers
