@@ -1,0 +1,27 @@
+-extra_res NCAAs/THP.params
+-extra_res NCAAs/4TZ.params
+-extra_res NCAAs/5PL.params
+-extra_res NCAAs/AC5.params
+-extra_res NCAAs/BIP.params
+-extra_res NCAAs/DMD.params
+-extra_res NCAAs/MEA.params
+-extra_res NCAAs/MEF.params
+-extra_res NCAAs/MEI.params
+-extra_res NCAAs/MEK.params
+-extra_res NCAAs/MEL.params
+-extra_res NCAAs/MER.params
+-extra_res NCAAs/PR6.params
+-extra_res NCAAs/TIC.params
+-cyclic_peptide:sequence_file seq.txt 
+-cyclic_peptide:genkic_closure_attempts 10000
+-cyclic_peptide:min_genkic_hbonds 0
+-out:file:silent out_simple_silent
+-overwrite
+-nstruct 500
+
+-nstruct 500
+
+-nstruct 500
+
+-nstruct 500
+-in:file:native 6be7_s1.pdb

@@ -1,0 +1,10 @@
+6be7.pdb
+6be7_s1.pdb
+RMSD_scoreplots_simple.py
+Run_SimpleCyc_pyrosetta.py
+SimpleCycPepPredict.py
+SimpleCycPepPredict_pyrosetta.py
+output.txt
+phipsi.py
+seq.txt
+simple.flags
